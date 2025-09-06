@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a, b;
-    cout << "enter the nums in f1:";
+    cout << "enter the numberss in f1:";
     cin >> a >> b;
     int sum = a + b;
     cout << "the sum is :" << sum;
