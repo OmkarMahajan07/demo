@@ -8,4 +8,6 @@ int main()
     cin >> a >> b;
     int sum = a + b;
     cout << "the sum is :" << sum;
+    int mul = a * b;
+    cout << "the product is :" << mul;
 } // namespace std
